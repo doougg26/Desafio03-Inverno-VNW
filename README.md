@@ -17,6 +17,7 @@
 
 Esse é o terceiro desafio proposto no curso de formação Front END da escola <a href="https://vainaweb.com.br/" target="_blank">Vai na Web<a>. Nele trabalhamos CSS Flexbox entre outras disciplinas passadas durante o curso.
 
+- [Visite o projeto online](https://doougg26.github.io/Desafio03-Inverno-VNW)
 
 ## 🔌 Tecnologias
 
