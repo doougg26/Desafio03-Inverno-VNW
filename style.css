@@ -71,9 +71,7 @@ main {
     flex-direction: column;
 }
 
-main section {
-    height: 40vh;
-}
+
 
 main section img {
     width: 330px;
@@ -112,10 +110,11 @@ article {
 }
 
 .section03 figure {
-    width: 90vw;
+    height:350px;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    align-items: center;;
+    flex-wrap: nowrap;
 }
 
 footer {
